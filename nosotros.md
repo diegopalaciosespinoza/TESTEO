@@ -11,12 +11,35 @@ nav-menu: true
 			<h1>¿Quiénes somos?</h1>
 		</header> 
     
-<h2 id="elements">Que hacemos</h2>
-<div class="row 200%">
-	<div class="6u$ 12u$(medium)">	
-    
-    <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
-    
+<h2 id="content">Sobre el equipo</h2>
+<p>Somos estudiantes de la carrera de Ingeniería Biomédica, buscamos innovar en los principales ámbitos de la medicina mediante el uso de la ingeniería.</p>
 
- </div>
- 
+<div class="row 200%">
+	<div class="6u 12u$(medium)">
+
+<dl>
+	<dt>Joaquina Rubio</dt>
+	<dd>
+		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+	</dd>
+	<dt>Johan Gora</dt>
+	<dd>
+		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+	</dd>
+</dl>
+</div>
+<div class="row 200%">
+	<div class="6u 12u$(medium)">
+<dl>	
+	<dt>Diego Palacios</dt>
+	<dd>
+		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+	</dd>
+	<dt>Sandra Marchan</dt>
+	<dd>
+		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+	</dd>
+</dl> 
+</div>
+	
+  
