@@ -1,6 +1,6 @@
 ---
 title: Landing
-layout: landing
+layout: TESTO
 description: 'TESTEO1'
 image: assets/images/pic07.jpg
 nav-menu: true
