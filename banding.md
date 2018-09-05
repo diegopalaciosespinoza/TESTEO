@@ -1,6 +1,6 @@
 ---
 title: KKKK
-layout: TESTO
+layout: landing
 description: 'TESTEO1'
 image: assets/images/pic07.jpg
 nav-menu: true
