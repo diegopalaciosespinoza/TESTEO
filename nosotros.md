@@ -35,15 +35,15 @@ nav-menu: true
 	<dd>
 		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
 	</dd>
-	<dt>Sandra Marchan</dt>
+</dl>
+	<h3>Sandra Marchan</h3>
 	<div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u$"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
 	</div>
 	</div>	
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-</dl> 
+	
+<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+
 </div>
 
