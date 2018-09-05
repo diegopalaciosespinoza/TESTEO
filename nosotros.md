@@ -38,7 +38,7 @@ nav-menu: true
 	<dt>Sandra Marchan</dt>
 	<div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
 	</div>
 	</div>	
 	<dd>
