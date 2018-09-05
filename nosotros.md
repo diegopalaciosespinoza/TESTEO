@@ -47,3 +47,6 @@ nav-menu: true
 
 </div>
 
+<h2 id="content">Objetivos</h2>
+<p>TRANSFORMAR LA SALUD EN EL PERÚ</p>
+
