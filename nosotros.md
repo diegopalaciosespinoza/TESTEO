@@ -28,8 +28,8 @@ nav-menu: true
 	</dd>
 </dl>
 </div>
-<div class="row 200%">
-	<div class="6u 12u$(medium)">
+
+<div class="6u 12u$(medium)">
 <dl>	
 	<dt>Diego Palacios</dt>
 	<dd>
